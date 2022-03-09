@@ -8,6 +8,7 @@
 ## What I Learned :
 * React Router.
 * Firebase backend database.
+* Firebase Google Authentication.
 * Bootstrap with React.
 * Proficiency with Functional React components.
 * Reusability with components.
