@@ -9,9 +9,9 @@
 * React Router.
 * Firebase backend database.
 * Bootstrap with React.
-* Class and functional React components.
+* Proficiency with Functional React components.
 * Reusability with components.
-* Collaboration with a group to complete components that will interact with everyone's ([see non-firebase version](https://github.com/Yeon-C/React-Group-Project))
+* Collaboration with a group to complete a functional app ([see non-firebase version](https://github.com/Yeon-C/React-Group-Project))
 
 
 ## Project Requirements
